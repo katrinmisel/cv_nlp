@@ -1,0 +1,4 @@
+# ignore ALL files in these directories
+
+cv_nlp_venv/
+yelp_photos/
